@@ -1,0 +1,123 @@
+#dates {
+    position: absolute;
+    text-align: center;
+    width: 100%;
+    height: 100%;
+    color: darkgreen;
+    font-size: 20px;
+}
+
+#productImage {
+    position: absolute;
+    top: 0%;
+    left: 17%;
+    width: 30%;
+    height: 70%;
+}
+
+#productImage #cambioImagen {
+    position: absolute;
+    top: 12%;
+    left: 15%;
+    width: 70%;
+    height: 80%;
+}
+
+#productImage #cambioImagen img {
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#productImage label {
+    position: absolute;
+    width: 100%;
+    top: 0.5%;
+    left: 0%;
+}
+
+#productImage input {
+    position: absolute;
+    width: 39%;
+    top: 85%;
+    left: 30%;
+}
+
+input {
+    background-color: transparent;
+    font-size: 20px;
+    border-radius: 10px;
+    position: absolute;
+    left: 27%;
+    width: 55%;
+}
+
+textarea{
+    background-color: transparent;
+    font-size: 20px;
+    border-radius: 10px;
+    position: absolute;
+    left: 27%;
+    width: 55%;
+}
+
+select{
+    background-color: transparent;
+    font-size: 20px;
+    border-radius: 10px;
+    position: absolute;
+    left: 27%;
+    width: 55%;
+}
+
+#productName{
+    width: 35%;
+    position: absolute;
+    left: 45%;
+    top: 15%;
+}
+
+#productDescription{
+    width: 35%;
+    position: absolute;
+    left: 45%;
+    top: 22%;
+}
+
+#productPrice{
+    width: 35%;
+    position: absolute;
+    left: 45%;
+    top: 34%;
+}
+
+#availableQuantity{
+    width: 35%;
+    position: absolute;
+    left: 45%;
+    top: 42%;
+}
+
+#productCategory{
+    width: 35%;
+    position: absolute;
+    left: 45%;
+    top: 51%;
+}
+
+#productSubCategory{
+    width: 35%;
+    position: absolute;
+    left: 45%;
+    top: 54%;
+}
+
+#save img{
+    width: 30%;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}

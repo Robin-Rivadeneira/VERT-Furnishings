@@ -1,0 +1,82 @@
+#dates {
+    position: absolute;
+    text-align: center;
+    width: 100%;
+    height: 100%;
+    color: darkgreen;
+    font-size: 20px;
+}
+
+#ImgStore {
+    position: absolute;
+    top: 15%;
+    left: 5%;
+    width: 30%;
+    height: 70%;
+}
+
+#ImgStore #cambioImagen {
+    position: absolute;
+    top: 12%;
+    left: 15%;
+    width: 70%;
+    height: 80%;
+}
+
+#ImgStore #cambioImagen img {
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#ImgStore label {
+    position: absolute;
+    width: 100%;
+    top: 0.5%;
+    left: 0%;
+}
+
+#ImgStore input {
+    position: absolute;
+    width: 43%;
+    top: 85%;
+    left: 28%;
+}
+
+input {
+    background-color: transparent;
+    font-size: 20px;
+    border-radius: 10px;
+    position: absolute;
+    left: 35%;
+}
+
+#storeName label,
+#directory label,
+#cellphone label {
+    position: absolute;
+    left: 2%;
+}
+
+#storeName {
+    position: absolute;
+    top: 35%;
+    left: 35%;
+    width: 40%;
+}
+
+#directory {
+    position: absolute;
+    top: 45%;
+    left: 35%;
+    width: 40%;
+}
+
+#cellphone {
+    position: absolute;
+    top: 55%;
+    left: 35%;
+    width: 40%;
+}
